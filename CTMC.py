@@ -8,7 +8,7 @@ Created on Thu May 19 11:52:10 2022
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-
+#helo
 def CTMC(horizon, initial_state, generator, dt = 0.01):
     """
     A function to numerically integrate a continuous time Markov chain.
